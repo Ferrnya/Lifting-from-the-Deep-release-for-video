@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="25c5287a-1ede-4966-b832-f1af9a9ba90f" name="162" url="http://10.103.238.162">
+        <fileTransfer host="10.103.238.162" port="22" rootFolder="/home/messor/users/fern" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c809d5e6-77e4-4d72-95f9-0d1b17b0f138" name="162zhang" url="http://10.103.238.162">
+        <fileTransfer host="10.103.238.162" port="22" rootFolder="/home/messor/users/zhanghc" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
